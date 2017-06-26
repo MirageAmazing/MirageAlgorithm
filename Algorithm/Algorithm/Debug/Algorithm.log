@@ -1,0 +1,4 @@
+﻿clang-cl.exe : warning : argument unused during compilation: '/ZI'
+clang-cl.exe : warning : argument unused during compilation: '/Gm'
+  Algorithm.vcxproj -> D:\Mirage\MirageAlgorithm\Algorithm\Debug\Algorithm.exe
+  Algorithm.vcxproj -> D:\Mirage\MirageAlgorithm\Algorithm\Debug\Algorithm.pdb (Partial PDB)
