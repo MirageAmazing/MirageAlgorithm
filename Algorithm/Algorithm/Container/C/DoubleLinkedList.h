@@ -1,0 +1,4 @@
+#ifndef _DOUBLE_LINKED_LIST
+#define _DOUBLE_LINKED_LIST
+
+#endif //  _DOUBLE_LINKED_LIST

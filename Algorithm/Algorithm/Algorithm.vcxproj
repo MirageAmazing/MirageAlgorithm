@@ -139,7 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="QuickSort.h" />
+    <ClInclude Include="Container\C\BinaryTree.h" />
+    <ClInclude Include="Container\C\Container.h" />
+    <ClInclude Include="Container\C\ContainerBase.h" />
+    <ClInclude Include="Container\C\DoubleLinkedList.h" />
+    <ClInclude Include="Container\C\Queue.h" />
+    <ClInclude Include="Container\C\SinglyLinkedList.h" />
+    <ClInclude Include="Container\C\Stack.h" />
+    <ClInclude Include="Sort\QuickSort.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
